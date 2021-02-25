@@ -27,3 +27,10 @@
 ## 석찬
 **Github**: [20 윤석찬](https://github.com/ch4n3-yoon)
 <!-- 여기에다 쭉 써주면 되어용~~ -->
+- **자기 소개**
+    - 스틸리언 선임연구원 <sub><sup>(유퀴즈에 나온 화이트해커 분이 저희 회사 대표님이십니다 😙)</sup></sub>
+    - KITRI BoB 6th 취약점 분석 트랙 수료
+    - 前 CTF Player (Aleph Infinite)
+- **스터디 계획**
+    - CTF·Wargame 문제 풀이 위주로 진행하고 싶습니다 !
+    - 실제 서비스에서 찾은 취약점들 Write-up 공유해드리겠습니다 !
