@@ -17,7 +17,5 @@
     - [18 서예진](https://github.com/yejinneer)
     - [19 황재현](https://github.com/penguin234)
     - [20 정민우](https://github.com/p1nkjelly)
-    - [21 고종한](https://github.com/rhwhdgks)
-    - [21 박태권](https://github.com/pataegonia)
 - **프로젝트**
     - [PX4-TrustZone: Improve security of PX4 Autopilot using ARM TrustZone 🚁🔐](https://github.com/korkeep/PX4-TrustZone)
