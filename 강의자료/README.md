@@ -1,2 +1,5 @@
 ## 강의자료
-미래 공직자가 알려주는 정보보호 이론
+Slack 채널에 실습자료 올려놨으니 참고해주세요 :)
+- Webhacking
+- Pwnable
+- Reversing
