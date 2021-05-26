@@ -17,7 +17,7 @@
     - [19 황재현](https://github.com/penguin234)
     - [20 정민우](https://github.com/p1nkjelly)
 - **프로젝트**
-    - [PX4-TrustZone: Improve security of PX4 Autopilot using ARM TrustZone 🚁🔐](https://github.com/korkeep/PX4-TrustZone)
+    - [PX4-Trust: Improve security of drone system using ARM Trusted Firmware-M](https://github.com/korkeep/PX4-TrustZone)
+    - [PGP: Implementing PGP(Pretty Good Privacy) protocol](https://github.com/korkeep/PGP)
     - [Web Offensive Security Research: Naver Bugbounty](https://github.com/p1nkjelly/webHacking-study-offensiveSecurity-research)
     - [Self Examinating Web Hacking](https://github.com/penguin234/Self-Examination)
-    - [Implementing PGP: Pretty Good Privacy](https://github.com/korkeep/PGP)
